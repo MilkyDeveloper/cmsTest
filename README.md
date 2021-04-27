@@ -1,3 +1,3 @@
 Hello World!
 
-Some initial **bold** text
+Some initial 🎈 **bold** text
